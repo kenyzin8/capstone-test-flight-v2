@@ -1,0 +1,10 @@
+asgiref==3.6.0
+deprecation==2.1.0
+Django==4.1.5
+django-email-verification==0.3.1
+django-static-fontawesome==5.15.4.0
+fontawesomefree==6.2.1
+packaging==23.0
+psycopg2-binary==2.9.5
+PyJWT==2.6.0
+sqlparse==0.4.3
